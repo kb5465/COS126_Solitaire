@@ -1,5 +1,5 @@
 # Solitaire
-Java implementation of the Solitaire card game with a graphical user interface. The game allows users to play Solitaire by interacting with cards on the screen, moving them according to the rules of the game until all cards are sorted into the foundation piles.
+Java implementation of the Solitaire card game with a graphical user interface. The game allows users to play Solitaire by interacting with cards on the screen, moving them according to the rules of the game until all cards are sorted into the foundation piles.<br/>
 
 # Features
 Start screen: A welcome screen where users can start the game by clicking anywhere.
